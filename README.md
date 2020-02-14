@@ -1,6 +1,6 @@
 # GitHub Pages Pelican Build Action Demo
 
-This GitHub repository is used to demonstrate the [GitHub Pages Pelican Build Action][action]
+This GitHub repository is used to demonstrate the [GitHub Pages Pelican Build Action][action].
 
 Please see the [action's page][action] for more information.
 
